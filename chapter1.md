@@ -1,4 +1,4 @@
-# MySQL
+# 关于MySQL基础知识
 
 - 系统环境`MAC OS 10.10`
 - MySQL版本，`5.7.9`
