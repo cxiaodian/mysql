@@ -1,4 +1,7 @@
-My Awesome Book
+MySQL基础笔记
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+记录学习mysql的基础笔记，涉及安装，配置，基础SQL语句，与Python链接开发等等。
+
+
+
