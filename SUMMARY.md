@@ -18,4 +18,4 @@
 * [创建和操作表](chapter16.md)
 * [使用视图](chapter17.md)
 * [管理事务处理](chapter19.md)
-* [管理事务处理](chapter20.md)
+* [备份脚本](script_back.md)
